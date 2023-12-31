@@ -1,2 +1,3 @@
-# Sublime-Build-Systems
+# SUBLIME BUILD SYSTEMS
+
 Customized build systems for sublime text.
