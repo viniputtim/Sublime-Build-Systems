@@ -1,0 +1,6 @@
+{
+    "shell_cmd": "python3 /home/vinicius/.config/sublime-text/Packages/User/build_cpp.py '$file_base_name' '$file_path' 'none'",
+    "working_dir": "${file_path}",
+    "selector": "source.cpp",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)"
+}
